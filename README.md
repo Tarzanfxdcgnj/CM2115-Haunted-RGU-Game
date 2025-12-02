@@ -18,7 +18,6 @@ The player explores seven rooms within a haunted RGU campus, battling enemies an
 
 ## GitHub Repository URL
 🔗 https://github.com/Tarzanfxdcgnj/CM2115-Haunted-RGU-Game 
-*(Replace with your actual link)*
 
 ## How to Play
 Run the program and type commands such as:
